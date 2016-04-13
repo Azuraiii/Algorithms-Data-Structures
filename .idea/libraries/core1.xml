@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="core1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/core.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/gluegen-rt-natives-linux-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/gluegen-rt-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/gluegen-rt-natives-linux-i586.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/gluegen-rt-natives-macosx-universal.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/gluegen-rt-natives-windows-i586.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/gluegen-rt.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/jogl-all-natives-linux-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/jogl-all-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/jogl-all-natives-linux-i586.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/jogl-all-natives-macosx-universal.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/jogl-all-natives-windows-i586.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/jogl-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/gluegen-java-src.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing-3.0b6-windows64/processing-3.0b6/core/library/jogl-java-src.zip!/" />
+    </SOURCES>
+  </library>
+</component>
