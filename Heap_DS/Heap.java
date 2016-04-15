@@ -74,6 +74,7 @@ public boolean isEmpty()
    }
 
 public void display() {
+	
    System.out.println("\n\nThe tree structure of the heaps is:");
    System.out.println( a[1] );
    for(int i = 1; i<= N/2; i = i * 2) {
@@ -92,20 +93,17 @@ public static void main(String args[]) {
    for(int i = 1; i <= 20; ++i)  {
 	  x =  (Math.random()*100.0);
       r = (int) x; 
-      //System.out.println("Inserting " + r);
+      System.out.println("Inserting " + r);
       h.insert(r);
-	  //h.display();
+	  h.display();
    }
-   
-   
+      
    //implement the remove and siftDown() methods
    while(!h.isEmpty())
    {
        h.display();
        h.remove();
    }
-   
-   
    
 }
 
